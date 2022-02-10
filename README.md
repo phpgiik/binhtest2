@@ -19,6 +19,7 @@ Authorization:Basic Base64Of Email:Password
 {
 "status": true,
 "data":
+
 	{
 	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJ",
 	"CustUID": 130,
@@ -26,6 +27,7 @@ Authorization:Basic Base64Of Email:Password
 	"membership_id": "51",
 	"is_membership_active": 1
 	}
+	
 }
 
 ## /GetSummary
