@@ -19,7 +19,9 @@ Response:
 
 "status": true,
 
-"data":{
+"data":
+
+	{
 	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJ",
 	"CustUID": 130,
 	"TeamID": 133,
