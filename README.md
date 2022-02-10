@@ -61,15 +61,6 @@ Authorization:Basic Base64Of Email:Password
 
 "data":
 
-	[
-	{"insp_id": 1000001, "status": "N", "CustUID": 130, "address": null, "city": null,…},
-	{"insp_id": 1000002, "status": "P", "CustUID": 130, "address": null, "city": null,…},
-	]
-
-}
-
-"data":
-
 [
 	{
 		"insp_id": 1000001,
@@ -99,5 +90,6 @@ Authorization:Basic Base64Of Email:Password
 	...
 	}
 	]
-	
+
 }
+
