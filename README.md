@@ -15,9 +15,11 @@ Authorization:Basic Base64Of Email:Password
 Body:empty
 
 Response:
+
 {
 
 "status": true,
+
 "data":
 
 	{
