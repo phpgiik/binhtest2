@@ -67,3 +67,37 @@ Authorization:Basic Base64Of Email:Password
 	]
 
 }
+
+"data":
+
+[
+	{
+		"insp_id": 1000001,
+		"status": "N",
+		"CustUID": 130,
+		"address": "2132 Huxley Way",
+		"city": "Modesto",
+		"state": "CA",
+		"zipcode": "95356",
+		"apt": null,
+		"insp_type": "FULL Inspection",
+		"insp_date": "02/10/2022",
+		"insp_time": "11:30 AM",
+		"status_date": "2022-02-10T08:00:00.000Z",
+		"date": "2022-02-08T17:19:15.000Z",
+		"posted_data": "JSON STRING",
+		"revision": 2,
+		"duration": 0,
+		"version": "6",
+		"device": 3,
+		"team_id": 0,
+		"assigned_id": 0,
+		"PropertyUID": 331
+		
+	},
+	{"insp_id":
+	...
+	}
+	]
+	
+}
