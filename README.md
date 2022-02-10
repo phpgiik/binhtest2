@@ -16,11 +16,10 @@ Authorization:Basic Base64Of Email:Password
 
 ***Response:***
 
+```
 {
 "status": true,
-
 "data":
-
 	{
 	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJ",
 	"CustUID": 130,
@@ -30,6 +29,7 @@ Authorization:Basic Base64Of Email:Password
 	}
 	
 }
+```
 
 **All request beside /Login needs headers Authorization:**
 
