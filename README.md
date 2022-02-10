@@ -22,11 +22,8 @@ Response:
 "data":{
 
 	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJ",
-
 	"CustUID": 130,
-
 	"TeamID": 133,
-
 	"membership_id": "51",
 
 	"is_membership_active": 1
