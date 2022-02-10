@@ -41,13 +41,12 @@ Authorization:Basic Base64Of Email:Password
 ***Body:*** empty
 
 {
-  "device_id":3,
-  
-  "CustUID":130,  
-  
-  "status":"NPI",
-  
+
+  "device_id":3,  
+  "CustUID":130,    
+  "status":"NPI",  
   "from_date":"01/09/2022"
+  
 }
 
 ***Response:***
