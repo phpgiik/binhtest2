@@ -12,7 +12,7 @@ br1
 ***Headers:***
 Authorization:Basic Base64Of Email:Password
 
-**Body:**empty
+***Body:***empty
 
 Response:
 
