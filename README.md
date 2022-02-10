@@ -38,7 +38,7 @@ Authorization:Basic Base64Of Email:Password
 ***Headers:***
 Authorization:Basic Base64Of Email:Password
 
-***Body:*** empty
+***Body:*** 
 
 {
 
