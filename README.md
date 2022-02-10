@@ -14,7 +14,7 @@ Authorization:Basic Base64Of Email:Password
 
 ***Body:*** empty
 
-Response:
+***Response:***
 
 {
 
