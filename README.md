@@ -18,7 +18,6 @@ Response:
 {
 
 "status": true,
-
 "data":
 
 	{
