@@ -31,6 +31,12 @@ Authorization:Basic Base64Of Email:Password
 	
 }
 
+
+**All request beside /Login needs headers Authorization:
+Headers:
+Authorization:Bearer xxxJWTTOKENxxxeyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImNybSJ9**
+
+
 ## /GetSummary
 
 ***Headers:***
