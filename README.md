@@ -88,7 +88,9 @@ Authorization:Basic Base64Of Email:Password
 	"PropertyUID": 331
 
 	},
-	{"insp_id":
+	
+	{
+	"insp_id":
 	...
 	}
 	
