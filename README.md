@@ -31,3 +31,33 @@ Authorization:Basic Base64Of Email:Password
 	}
 
 }
+
+
+## /GetSummary
+
+***Headers:***
+Authorization:Basic Base64Of Email:Password
+
+***Body:*** empty
+
+{
+  "device_id":3,
+  "CustUID":130,  
+  "status":"NPI",
+  "from_date":"01/09/2022"
+}
+
+***Response:***
+
+{
+
+"status": true,
+
+"data":
+
+	[
+	{"insp_id": 1000001, "status": "N", "CustUID": 130, "address": null, "city": null,…},
+	{"insp_id": 1000002, "status": "P", "CustUID": 130, "address": null, "city": null,…},
+	]
+
+}
